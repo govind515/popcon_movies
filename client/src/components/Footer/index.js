@@ -56,10 +56,7 @@ const Footer = () => {
               {/* Contact link */}
               <div className="col-md-2">
                 <h6 className="text-uppercase font-weight-bold">
-                  <a
-                    href="https://mdglankush65.github.io/Portfolio/#contact"
-                    className="text-white"
-                  >
+                  <a href="https://github.com/govind515" className="text-white">
                     <FontAwesomeIcon icon={faArrowCircleRight} /> Contact
                   </a>
                 </h6>
@@ -88,7 +85,7 @@ const Footer = () => {
           <section className="text-center mb-5">
             {/* Contact link */}
             <a
-              href="https://github.com/govind515"
+              href="https://github.com/govind515 "
               className="text-white me-4"
               target="blank"
             >
@@ -104,7 +101,7 @@ const Footer = () => {
             </a>
             {/* LinkedIn link */}
             <a
-              href="https://www.linkedin.com/in/govind-parihar-230087276/"
+              href="https://www.linkedin.com/in/govind-parihar-230087276/ "
               className="text-white me-4"
               target="blank"
             >
@@ -112,7 +109,7 @@ const Footer = () => {
             </a>
             {/* GitHub link */}
             <a
-              href="https://github.com/govind515"
+              href="https://github.com/govind515 "
               className="text-white me-4"
               target="blank"
             >
