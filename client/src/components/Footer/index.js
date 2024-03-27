@@ -88,7 +88,7 @@ const Footer = () => {
           <section className="text-center mb-5">
             {/* Contact link */}
             <a
-              href="https://mdglankush65.github.io/Portfolio/#contact"
+              href="https://github.com/govind515"
               className="text-white me-4"
               target="blank"
             >
@@ -96,7 +96,7 @@ const Footer = () => {
             </a>
             {/* Google link */}
             <a
-              href="mailto:mdglankush565@gmail.com"
+              href="mailto:govindparihar051@gmail.com"
               className="text-white me-4"
               target="blank"
             >
@@ -104,7 +104,7 @@ const Footer = () => {
             </a>
             {/* LinkedIn link */}
             <a
-              href="https://www.linkedin.com/in/ankushmudgil/"
+              href="https://www.linkedin.com/in/govind-parihar-230087276/"
               className="text-white me-4"
               target="blank"
             >
@@ -112,7 +112,7 @@ const Footer = () => {
             </a>
             {/* GitHub link */}
             <a
-              href="https://github.com/mdglankush65/react-movie-site"
+              href="https://github.com/govind515"
               className="text-white me-4"
               target="blank"
             >
